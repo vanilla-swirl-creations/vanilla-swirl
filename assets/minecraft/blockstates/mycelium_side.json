@@ -1,0 +1,24 @@
+{
+    "variants": {
+        "normal": [ 
+			{ "model": "mycelium_side_01", "weight": 60 },
+			{ "model": "mycelium_side_02", "weight": 50 },
+			{ "model": "mycelium_side_03", "weight": 40 },
+			{ "model": "mycelium_side_04", "weight": 30 },
+			{ "model": "mycelium_side_05", "weight": 20 },
+			{ "model": "mycelium_side_06", "weight": 10 },
+			{ "model": "mycelium_side_07", "weight": 30 },
+			{ "model": "mycelium_side_08", "weight": 25 },
+			{ "model": "mycelium_side_09", "weight": 20 },
+			{ "model": "mycelium_side_10", "weight": 15 },
+			{ "model": "mycelium_side_11", "weight": 10 },
+			{ "model": "mycelium_side_12", "weight": 5 },
+			{ "model": "mycelium_side_13", "weight": 18 },
+			{ "model": "mycelium_side_14", "weight": 15 },
+			{ "model": "mycelium_side_15", "weight": 12 },
+			{ "model": "mycelium_side_16", "weight": 9 },
+			{ "model": "mycelium_side_17", "weight": 6 },
+			{ "model": "mycelium_side_18", "weight": 3 }
+		]
+    }
+}

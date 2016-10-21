@@ -1,0 +1,24 @@
+{
+    "variants": {
+        "normal": [ 
+			{ "model": "grass_side_overlay_01", "weight": 60 },
+			{ "model": "grass_side_overlay_02", "weight": 50 },
+			{ "model": "grass_side_overlay_03", "weight": 40 },
+			{ "model": "grass_side_overlay_04", "weight": 30 },
+			{ "model": "grass_side_overlay_05", "weight": 20 },
+			{ "model": "grass_side_overlay_06", "weight": 10 },
+			{ "model": "grass_side_overlay_07", "weight": 30 },
+			{ "model": "grass_side_overlay_08", "weight": 25 },
+			{ "model": "grass_side_overlay_09", "weight": 20 },
+			{ "model": "grass_side_overlay_10", "weight": 15 },
+			{ "model": "grass_side_overlay_11", "weight": 10 },
+			{ "model": "grass_side_overlay_12", "weight": 5 },
+			{ "model": "grass_side_overlay_13", "weight": 18 },
+			{ "model": "grass_side_overlay_14", "weight": 15 },
+			{ "model": "grass_side_overlay_15", "weight": 12 },
+			{ "model": "grass_side_overlay_16", "weight": 9 },
+			{ "model": "grass_side_overlay_17", "weight": 6 },
+			{ "model": "grass_side_overlay_18", "weight": 3 }
+		]
+    }
+}
