@@ -1,0 +1,35 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "dirt_01" , "weight": 30},
+            { "model": "dirt_01", "y": 90 , "weight": 30},
+            { "model": "dirt_01", "y": 180 , "weight": 30},
+            { "model": "dirt_01", "y": 270 , "weight": 30},
+			
+			{ "model": "dirt_02" , "weight": 5},
+            { "model": "dirt_02", "y": 90 , "weight": 5},
+            { "model": "dirt_02", "y": 180 , "weight": 5},
+            { "model": "dirt_02", "y": 270 , "weight": 5},
+			
+			{ "model": "dirt_03" , "weight": 1},
+            { "model": "dirt_03", "y": 90 , "weight": 1},
+            { "model": "dirt_03", "y": 180 , "weight": 1},
+            { "model": "dirt_03", "y": 270 , "weight": 1},
+			
+			{ "model": "dirt_04" , "weight": 1},
+            { "model": "dirt_04", "y": 90 , "weight": 1},
+            { "model": "dirt_04", "y": 180 , "weight": 1},
+            { "model": "dirt_04", "y": 270 , "weight": 1},
+			
+			{ "model": "dirt_05" , "weight": 5},
+            { "model": "dirt_05", "y": 90 , "weight": 5},
+            { "model": "dirt_05", "y": 180 , "weight": 5},
+            { "model": "dirt_05", "y": 270 , "weight": 5},
+			
+			{ "model": "dirt_06" , "weight": 5},
+            { "model": "dirt_06", "y": 90 , "weight": 5},
+            { "model": "dirt_06", "y": 180 , "weight": 5},
+            { "model": "dirt_06", "y": 270 , "weight": 5}
+        ]
+    }
+}
