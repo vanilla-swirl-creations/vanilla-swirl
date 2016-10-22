@@ -1,0 +1,24 @@
+{
+    "variants": {
+        "normal": [
+		{ "model": "grass_path_01" , "weight": 60},
+		{ "model": "grass_path_02" , "weight": 50},
+		{ "model": "grass_path_03" , "weight": 40},
+		{ "model": "grass_path_04" , "weight": 30},
+		{ "model": "grass_path_05" , "weight": 20},
+		{ "model": "grass_path_06" , "weight": 10},
+		{ "model": "grass_path_07" , "weight": 30},
+		{ "model": "grass_path_08" , "weight": 25},
+		{ "model": "grass_path_09" , "weight": 20},
+		{ "model": "grass_path_10" , "weight": 15},
+		{ "model": "grass_path_11" , "weight": 10},
+		{ "model": "grass_path_12" , "weight": 5},
+		{ "model": "grass_path_13" , "weight": 18},
+		{ "model": "grass_path_14" , "weight": 15},
+		{ "model": "grass_path_15" , "weight": 12},
+		{ "model": "grass_path_16" , "weight": 9},
+		{ "model": "grass_path_17" , "weight": 6},
+		{ "model": "grass_path_18" , "weight": 3}
+		]
+    }
+}

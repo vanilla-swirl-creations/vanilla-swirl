@@ -1,0 +1,186 @@
+{
+    "variants": {
+        "snowy=false": [ 
+			{ "model": "podzol_01", "weight": 60},
+			{ "model": "podzol_01", "y": 90 , "weight": 60},
+            { "model": "podzol_01", "y": 180 , "weight": 60},
+            { "model": "podzol_01", "y": 270 , "weight": 60},
+			
+			{ "model": "podzol_02" , "weight": 50},
+			{ "model": "podzol_02", "y": 90 , "weight": 50},
+            { "model": "podzol_02", "y": 180 , "weight": 50},
+            { "model": "podzol_02", "y": 270 , "weight": 50},
+			
+			{ "model": "podzol_03", "weight": 40},
+			{ "model": "podzol_03", "y": 90 , "weight": 40},
+            { "model": "podzol_03", "y": 180 , "weight": 40},
+            { "model": "podzol_03", "y": 270 , "weight": 40},
+			
+			{ "model": "podzol_04", "weight": 30},
+			{ "model": "podzol_04", "y": 90 , "weight": 30},
+            { "model": "podzol_04", "y": 180 , "weight": 30},
+            { "model": "podzol_04", "y": 270 , "weight": 30},
+			
+			{ "model": "podzol_05", "weight": 20},
+			{ "model": "podzol_05", "y": 90 , "weight": 20},
+            { "model": "podzol_05", "y": 180 , "weight": 20},
+            { "model": "podzol_05", "y": 270 , "weight": 20},
+			
+			{ "model": "podzol_06", "weight": 10},
+			{ "model": "podzol_06", "y": 90 , "weight": 10},
+            { "model": "podzol_06", "y": 180 , "weight": 10},
+            { "model": "podzol_06", "y": 270 , "weight": 10},
+			
+			{ "model": "podzol_07", "weight": 30},
+			{ "model": "podzol_07", "y": 90 , "weight": 30},
+            { "model": "podzol_07", "y": 180 , "weight": 30},
+            { "model": "podzol_07", "y": 270 , "weight": 30},
+			
+			{ "model": "podzol_08" , "weight": 25},
+			{ "model": "podzol_08", "y": 90 , "weight": 25},
+            { "model": "podzol_08", "y": 180 , "weight": 25},
+            { "model": "podzol_08", "y": 270 , "weight": 25},
+			
+			{ "model": "podzol_09", "weight": 20},
+			{ "model": "podzol_09", "y": 90 , "weight": 20},
+            { "model": "podzol_09", "y": 180 , "weight": 20},
+            { "model": "podzol_09", "y": 270 , "weight": 20},
+			
+			{ "model": "podzol_10", "weight": 15},
+			{ "model": "podzol_10", "y": 90 , "weight": 15},
+            { "model": "podzol_10", "y": 180 , "weight": 15},
+            { "model": "podzol_10", "y": 270 , "weight": 15},
+			
+			{ "model": "podzol_11", "weight": 10},
+			{ "model": "podzol_11", "y": 90 , "weight": 10},
+            { "model": "podzol_11", "y": 180 , "weight": 10},
+            { "model": "podzol_11", "y": 270 , "weight": 10},
+			
+			{ "model": "podzol_12", "weight": 5},
+			{ "model": "podzol_12", "y": 90 , "weight": 5},
+            { "model": "podzol_12", "y": 180 , "weight": 5},
+            { "model": "podzol_12", "y": 270 , "weight": 5},
+			
+			{ "model": "podzol_13", "weight": 18},
+			{ "model": "podzol_13", "y": 90 , "weight": 18},
+            { "model": "podzol_13", "y": 180 , "weight": 18},
+            { "model": "podzol_13", "y": 270 , "weight": 18},
+			
+			{ "model": "podzol_14" , "weight": 15},
+			{ "model": "podzol_14", "y": 90 , "weight": 15},
+            { "model": "podzol_14", "y": 180 , "weight": 15},
+            { "model": "podzol_14", "y": 270 , "weight": 15},
+			
+			{ "model": "podzol_15", "weight": 12},
+			{ "model": "podzol_15", "y": 90 , "weight": 12},
+            { "model": "podzol_15", "y": 180 , "weight": 12},
+            { "model": "podzol_15", "y": 270 , "weight": 12},
+			
+			{ "model": "podzol_16", "weight": 9},
+			{ "model": "podzol_16", "y": 90 , "weight": 9},
+            { "model": "podzol_16", "y": 180 , "weight": 9},
+            { "model": "podzol_16", "y": 270 , "weight": 9},
+			
+			{ "model": "podzol_17", "weight": 6},
+			{ "model": "podzol_17", "y": 90 , "weight": 6},
+            { "model": "podzol_17", "y": 180 , "weight": 6},
+            { "model": "podzol_17", "y": 270 , "weight": 6},
+			
+			{ "model": "podzol_18", "weight": 3},
+			{ "model": "podzol_18", "y": 90 , "weight": 3},
+            { "model": "podzol_18", "y": 180 , "weight": 3},
+            { "model": "podzol_18", "y": 270 , "weight": 3}
+		],
+	"snowy=true": [
+			{ "model": "grass_snowed_01", "weight": 60},
+			{ "model": "grass_snowed_01", "y": 90 , "weight": 60},
+            { "model": "grass_snowed_01", "y": 180 , "weight": 60},
+            { "model": "grass_snowed_01", "y": 270 , "weight": 60},
+			
+			{ "model": "grass_snowed_02" , "weight": 50},
+			{ "model": "grass_snowed_02", "y": 90 , "weight": 50},
+            { "model": "grass_snowed_02", "y": 180 , "weight": 50},
+            { "model": "grass_snowed_02", "y": 270 , "weight": 50},
+			
+			{ "model": "grass_snowed_03", "weight": 40},
+			{ "model": "grass_snowed_03", "y": 90 , "weight": 40},
+            { "model": "grass_snowed_03", "y": 180 , "weight": 40},
+            { "model": "grass_snowed_03", "y": 270 , "weight": 40},
+			
+			{ "model": "grass_snowed_04", "weight": 30},
+			{ "model": "grass_snowed_04", "y": 90 , "weight": 30},
+            { "model": "grass_snowed_04", "y": 180 , "weight": 30},
+            { "model": "grass_snowed_04", "y": 270 , "weight": 30},
+			
+			{ "model": "grass_snowed_05", "weight": 20},
+			{ "model": "grass_snowed_05", "y": 90 , "weight": 20},
+            { "model": "grass_snowed_05", "y": 180 , "weight": 20},
+            { "model": "grass_snowed_05", "y": 270 , "weight": 20},
+			
+			{ "model": "grass_snowed_06", "weight": 10},
+			{ "model": "grass_snowed_06", "y": 90 , "weight": 10},
+            { "model": "grass_snowed_06", "y": 180 , "weight": 10},
+            { "model": "grass_snowed_06", "y": 270 , "weight": 10},
+			
+			{ "model": "grass_snowed_07", "weight": 30},
+			{ "model": "grass_snowed_07", "y": 90 , "weight": 30},
+            { "model": "grass_snowed_07", "y": 180 , "weight": 30},
+            { "model": "grass_snowed_07", "y": 270 , "weight": 30},
+			
+			{ "model": "grass_snowed_08" , "weight": 25},
+			{ "model": "grass_snowed_08", "y": 90 , "weight": 25},
+            { "model": "grass_snowed_08", "y": 180 , "weight": 25},
+            { "model": "grass_snowed_08", "y": 270 , "weight": 25},
+			
+			{ "model": "grass_snowed_09", "weight": 20},
+			{ "model": "grass_snowed_09", "y": 90 , "weight": 20},
+            { "model": "grass_snowed_09", "y": 180 , "weight": 20},
+            { "model": "grass_snowed_09", "y": 270 , "weight": 20},
+			
+			{ "model": "grass_snowed_10", "weight": 15},
+			{ "model": "grass_snowed_10", "y": 90 , "weight": 15},
+            { "model": "grass_snowed_10", "y": 180 , "weight": 15},
+            { "model": "grass_snowed_10", "y": 270 , "weight": 15},
+			
+			{ "model": "grass_snowed_11", "weight": 10},
+			{ "model": "grass_snowed_11", "y": 90 , "weight": 10},
+            { "model": "grass_snowed_11", "y": 180 , "weight": 10},
+            { "model": "grass_snowed_11", "y": 270 , "weight": 10},
+			
+			{ "model": "grass_snowed_12", "weight": 5},
+			{ "model": "grass_snowed_12", "y": 90 , "weight": 5},
+            { "model": "grass_snowed_12", "y": 180 , "weight": 5},
+            { "model": "grass_snowed_12", "y": 270 , "weight": 5},
+			
+			{ "model": "grass_snowed_13", "weight": 18},
+			{ "model": "grass_snowed_13", "y": 90 , "weight": 18},
+            { "model": "grass_snowed_13", "y": 180 , "weight": 18},
+            { "model": "grass_snowed_13", "y": 270 , "weight": 18},
+			
+			{ "model": "grass_snowed_14" , "weight": 15},
+			{ "model": "grass_snowed_14", "y": 90 , "weight": 15},
+            { "model": "grass_snowed_14", "y": 180 , "weight": 15},
+            { "model": "grass_snowed_14", "y": 270 , "weight": 15},
+			
+			{ "model": "grass_snowed_15", "weight": 12},
+			{ "model": "grass_snowed_15", "y": 90 , "weight": 12},
+            { "model": "grass_snowed_15", "y": 180 , "weight": 12},
+            { "model": "grass_snowed_15", "y": 270 , "weight": 12},
+			
+			{ "model": "grass_snowed_16", "weight": 9},
+			{ "model": "grass_snowed_16", "y": 90 , "weight": 9},
+            { "model": "grass_snowed_16", "y": 180 , "weight": 9},
+            { "model": "grass_snowed_16", "y": 270 , "weight": 9},
+			
+			{ "model": "grass_snowed_17", "weight": 6},
+			{ "model": "grass_snowed_17", "y": 90 , "weight": 6},
+            { "model": "grass_snowed_17", "y": 180 , "weight": 6},
+            { "model": "grass_snowed_17", "y": 270 , "weight": 6},
+			
+			{ "model": "grass_snowed_18", "weight": 3},
+			{ "model": "grass_snowed_18", "y": 90 , "weight": 3},
+            { "model": "grass_snowed_18", "y": 180 , "weight": 3},
+            { "model": "grass_snowed_18", "y": 270 , "weight": 3}
+		]
+    }
+}
