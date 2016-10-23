@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "normal":  [
+		{ "model": "netherrack_glowstone1" , "weight": 4},
+		{ "model": "netherrack_glowstone2" , "weight": 3},
+		{ "model": "netherrack_gold1" , "weight" : 1},
+		{ "model": "netherrack_gold2" , "weight" : 2},
+		{ "model": "netherrack_quartz1" , "weight" : 2}, 
+		{ "model": "netherrack_quartz2" , "weight" : 2}, 
+		{ "model": "netherrack_quartz3" , "weight" : 3}, 
+		{ "model": "netherrack_quartz4" , "weight" : 3}, 
+		{ "model": "netherrack_gravel1" , "weight" : 5},
+		{ "model": "netherrack_gravel2" , "weight" : 5},
+		{ "model": "netherrack_lava1" , "weight" : 1},
+		{ "model": "netherrack_lava2" , "weight" : 1},
+		{ "model": "netherrack_lava3" , "weight" : 1},
+		{ "model": "netherrack" , "weight" : 297}  ]
+
+			 
+    }
+}
